@@ -3,9 +3,5 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (THSCSLabCourse)" project-jdk-type="Python SDK" />
-  <component name="VagrantProjectSettings">
-    <option name="instanceFolder" value="" />
-    <option name="provider" value="" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (CSLabCourse)" project-jdk-type="Python SDK" />
 </project>
